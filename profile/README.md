@@ -1,12 +1,3 @@
-## Hi there 👋
+# The Monkeys
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to The Monkeys! We are a community of developers, designers, and enthusiasts who are passionate about creating and maintaining open source projects. We believe that open source is the key to fostering innovation, learning and collaboration, and we want to make it as easy as possible for people to contribute to our projects. If you're interested in contributing, we'd love to have you join us. There are many ways to get involved, from submitting bug reports and feature requests, to writing code and documentation, to helping out with testing and user support. No matter your skill level or experience, we welcome you to join our community and help make our projects even better.
